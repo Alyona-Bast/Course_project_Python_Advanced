@@ -1,0 +1,4 @@
+aiogram==2.24
+requests==2.28.1
+googletrans==4.0.0rc1
+transliterate==1.10.2

@@ -1,0 +1,8 @@
+Ця програма представляє собою мій курсовий проект з курсу Python Advanced.
+Це інформаційний телеграм-бот на Python. Даний бот може повідомити прогноз погоди
+чи час сходу і заходу сонця у будь-якому місті, курс валют та факт про поточну дату.
+
+
+This program is my course project from the Python Advanced course.
+This is an information telegram bot in Python. This bot can report the weather forecast
+or the time of sunrise and sunset in any city, the exchange rate and the fact about the current date.
